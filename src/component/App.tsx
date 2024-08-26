@@ -1,6 +1,6 @@
-import Container from "./component/Container";
-import Footer from "./component/Footer";
-import Header from "./component/Header";
+import Container from "./Container";
+import Footer from "./Footer";
+import Header from "./Header";
 
 function App() {
   return (

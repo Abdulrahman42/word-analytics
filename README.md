@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+## Website
+[Word Analytics React](https://word-analytics-social.netlify.app/)
